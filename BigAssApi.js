@@ -405,5 +405,5 @@ var myLogWrapper = function(msg) {
 
 exports.FanMaster = FanMaster;
 exports.BigAssFan = BigAssFan;
-exports.logging = false;
+exports.logging = true;
 
